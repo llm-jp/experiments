@@ -1,0 +1,29 @@
+---
+name: 実験テンプレート
+about: 新しい実験を記録するためのテンプレート
+title: "[実験名] - 簡単な説明"
+labels: pretrain, evaluation, data-preprocess
+assignees: ''
+
+---
+
+## 実験情報
+- **実験名**: 
+- **実験の目的**:
+- **スクリプトリポジトリ**:
+  - [リポジトリ名](https://github.com/llm-jp/<projects>/tree/<commit-id>/folder)（コミット番号: `commit_hash1`）
+- **ログ** (Optional):
+  - [ログリンク名](URL)
+- **データ入力パス** (Optional): 
+  - データ名：`/path/to/input_data`
+- **データ出力パス** (Optional):
+  - データ名：`/path/to/output_data`
+- **開始日**: YYYY-MM-DD
+- **終了日**: YYYY-MM-DD
+
+## 評価（Optional）
+- **評価方法**: 別のissueを立てるか、評価に使用したスクリプトリポジトリおよびログを追記してください。
+  - 評価に使用したスクリプトリポジトリ: 
+    - [リポジトリ名](https://github.com/llm-jp/<projects>/tree/<commit-id>/folder)（コミット番号: `commit_hash1`）
+  - 評価ログ: 
+    - [評価ログリンク名](URL)
