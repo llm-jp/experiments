@@ -1,2 +1,2 @@
-# llm-jp-experiments
+# projects
 Under construction
