@@ -16,7 +16,8 @@ TODO: 1文程度で実験の概要を記載する
 TODO: 実験の背景や進め方などを数パラグラフで記載する
 
 # Resources
-- 計算ノードの種類・個数: CPU/GPU nノード
+- サーバー: mdx(llm-jp-nvlink), sakura, etc
+- 計算ノードの種類・個数: CPU/GPU (H100, A100 etc) nノード
 - **スクリプトリポジトリ**:
   - [リポジトリ名](https://github.com/llm-jp/<projects>/tree/<commit-id>/folder)（コミット番号: `commit_hash1`）
 - **ログ** (Optional):
