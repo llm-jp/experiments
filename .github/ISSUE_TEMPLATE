@@ -30,8 +30,9 @@ assignees: ''
 * **入力データ**:
   * {name}: `{physical path}`
 * **出力データ**:
-  - {name}: `{physical path}`
-    - 消費サイズ: xxx TB
+  * 保存先: `{cluster}:/data/experiments/{number}`
+  * データ内訳:
+    * {name}: xxx TB （バッファ容量を含む）
 * **開始日**: YYYY-MM-DD
-* **終了予定日**: YYYY-MM-DD （バッファ予定の期間を含む）
+* **終了予定日**: YYYY-MM-DD （バッファ期間を含む）
 
