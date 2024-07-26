@@ -33,6 +33,8 @@ assignees: ''
   * 保存先: `{cluster}:/data/experiments/{number}`
   * データ内訳:
     * {name}: xxx TB （バッファ容量を含む）
+* **W&B ログ**:
+  * https://wandb.ai/{team}/{project} **FIXME**
 * **開始日**: YYYY-MM-DD
 * **終了予定日**: YYYY-MM-DD （バッファ期間を含む）
 
