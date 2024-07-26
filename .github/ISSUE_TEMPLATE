@@ -9,32 +9,29 @@ assignees: ''
 
 # Overview
 
-TODO: 1文程度で実験の概要を記載する
+1文程度で実験の概要を記載してください。
 
 # Details
 
-TODO: 実験の背景や進め方などを数パラグラフで記載する
-（モデルカードがあればそのリンクも含める）
+モデルカードPR: https://github.com/llm-jp/model-cards/pull/{id}
+
+数パラグラフ以内で実験に関する詳細を説明してください。
+関連するリンクがあれば適宜してください。
 
 # Resources
-- サーバー: mdx(llm-jp-nvlink), sakura, etc
-- 計算ノードの種類・個数: CPU/GPU (H100, A100 etc) nノード
-- **スクリプトリポジトリ**:
-  - [リポジトリ名](https://github.com/llm-jp/<projects>/tree/<commit-id>/folder)（コミット番号: `commit_hash1`）
-- **ログ** (Optional):
-  - [ログリンク名](URL)
-- **データ入力パス** (Optional): 
-  - データ名：`/path/to/input_data`
-- **データ出力パス** (Optional):
-  - データ名：`/path/to/output_data`
-    - 消費サイズ
-- **開始日**: YYYY-MM-DD
-- **（予定）終了日**: YYYY-MM-DD
 
-## 評価（Optional）
-別のissueを立てるか、評価に使用したスクリプトリポジトリおよびログを追記してください。
-- **評価方法**: llm-jp-eval, MT bench, etc
-  - 評価に使用したスクリプトリポジトリ: 
-    - [リポジトリ名](https://github.com/llm-jp/<projects>/tree/<commit-id>/folder)（コミット番号: `commit_hash1`）
-  - 評価ログ: 
-    - [評価ログリンク名](URL)
+* **計算機**
+  * クラスタ: **FIXME** Sakura (Ishikari)
+  * ノード種別: **FIXME** gpu-small (H100x8)
+  * ノード台数: **FIXME** 32
+* **コード**
+  * リポジトリ: **FIXME** https://github.com/{org}/{repo}
+  * コミット: **FIXME** xxxxxx
+* **入力データ**:
+  * {name}: `{physical path}`
+* **出力データ**:
+  - {name}: `{physical path}`
+    - 消費サイズ: xxx TB
+* **開始日**: YYYY-MM-DD
+* **終了予定日**: YYYY-MM-DD （バッファ予定の期間を含む）
+
