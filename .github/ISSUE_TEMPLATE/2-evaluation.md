@@ -1,7 +1,7 @@
 ---
-name: 評価
-about: 評価用Issue Template
-title: "[評価] - 簡単な説明"
+name: 評価実験
+about: 評価の詳細を記載するテンプレート
+title: "[評価] - タイトルを入力してください"
 labels: evaluation
 assignees: ''
 
