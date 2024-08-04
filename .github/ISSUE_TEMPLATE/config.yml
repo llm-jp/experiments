@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 事前学習実験
+    url: https://github.com/llm-jp/experiments/issues/new?template=1_pretrain.md
+    about: 事前学習の詳細を記載するテンプレート
+  - name: 評価実験
+    url: https://github.com/llm-jp/experiments/issues/new?template=2_evaluation.md
+    about: 評価の詳細を記載するテンプレート

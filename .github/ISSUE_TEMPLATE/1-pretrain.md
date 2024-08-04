@@ -1,8 +1,8 @@
 ---
-name: 実験名
-about: 1文程度の概要
-title: "[実験名] - 簡単な説明"
-labels: pretrain, evaluation, data-preprocess
+name: 事前学習実験
+about: 事前学習の詳細を記載するテンプレート
+title: "[事前学習] - タイトルを入力してください"
+labels: pretrain
 assignees: ''
 
 ---
